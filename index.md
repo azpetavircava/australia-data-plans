@@ -63,3 +63,10 @@ layout: default
 
 　　**祝你在澳洲的每一程，信号满格，心情满分。**
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Australia SIM 卡购买与激活指南](https://faciylike.github.io/australia-sim-guides)
